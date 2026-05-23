@@ -2,7 +2,7 @@
 
 A clean, dark-mode web app for learning Mandarin Chinese vocabulary. Built with React + Vite + Tailwind CSS. No backend, no login, no cost.
 
-🌐 **[Live app →](https://chinese-learning-app.vercel.app)** *(link updates after Vercel deploy)*
+🌐 **[Live app →](https://chinese-learning-app-three.vercel.app)**
 
 ---
 

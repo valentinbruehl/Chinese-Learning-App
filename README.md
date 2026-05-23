@@ -1,6 +1,6 @@
 # 汉字 Learn — Chinese Vocabulary App
 
-A clean, dark-mode web app for learning Mandarin Chinese vocabulary. Built with React + Vite + Tailwind CSS. No backend, no login, no cost.
+A web app for learning Mandarin Chinese vocabulary. Built with React + Vite + Tailwind CSS.
 
 🌐 **[Live app →](https://chinese-learning-app-three.vercel.app)**
 
